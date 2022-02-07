@@ -12,18 +12,13 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages (HTML, CSS, JavaScript)
+- Major language (React)
 
-- Technologies used
+- # Technologies used
 
-  ``` bash
-  - React
   - Webpack(Code Bundler)
   - Gitflow(version control)
   - ESLint(JavaScript linting)
-  - Stylelint(style linting)
-  ```
-
 
 ## Getting Started
 
