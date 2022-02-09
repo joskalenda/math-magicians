@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #000;
+  background-color: #fff;
 }
 
 .container {
@@ -15,8 +15,6 @@ body {
   width: 300px;
   border: 1px solid lightgray;
   border-radius: 8px;
-  -webkit-box-shadow: 10px 11px 8px 3px rgba(0, 0, 0, 0.76);
-  box-shadow: 10px 11px 8px 3px rgba(184, 184, 184, 0.76);
 }
 
 .buttons--ssection {
@@ -27,7 +25,6 @@ body {
 
 .button {
   border: 1px solid rgb(114, 9, 9);
-  border-radius: 50%;
   width: 70px;
   height: 45px;
   color: #000;
@@ -36,12 +33,20 @@ body {
   cursor: pointer;
 }
 
-.btn {
-  background-color: orange;
-}
-
 .button:hover {
   color: #b6b6b6;
+}
+
+.button:nth-child(4),
+.button:nth-child(8),
+.button:nth-child(12),
+.button:nth-child(16) {
+  background-color: rgb(231, 141, 57);
+}
+
+.button:nth-child(17) {
+  grid-column: 1/span 2;
+  width: 140px;
 }
 
 .display--section {
