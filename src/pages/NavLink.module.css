@@ -1,0 +1,28 @@
+.navheader {
+  display: flex;
+  justify-content: space-between;
+  padding: 2px;
+  margin: -5px 10px;
+  text-align: center;
+  align-items: center;
+}
+
+.title {
+  color: orange;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 38px;
+}
+
+.navlist {
+  display: flex;
+  gap: 10px;
+  font-size: 20px;
+  list-style: none;
+}
+
+.links {
+  text-decoration: none;
+  font-weight: bold;
+  padding: 5px;
+  color: antiquewhite;
+}
