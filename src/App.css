@@ -2,7 +2,6 @@ body {
   margin: 0;
   padding: 0;
   -moz-osx-font-smoothing: grayscale;
-  /* background-color: rgb(230, 223, 223); */
   background-color: #000;
 }
 
@@ -12,9 +11,8 @@ body {
   margin-top: 60px;
   margin-left: 21px;
   color: antiquewhite;
-  /* transform: translateY(10px); */
-
 }
+
 .container {
   background-color: #000;
   position: absolute;

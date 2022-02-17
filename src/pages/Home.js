@@ -5,13 +5,14 @@ const Home = () => {
     lineHeight: '1.5em',
     fontSize: '28px',
     color: 'antiquewhite',
+    margin: '0 70px',
   };
   const para = {
     padding: '20px 0',
     lineHeight: '1.5em',
     fontSize: '18px',
     color: 'antiquewhite',
-    marginright: '20px',
+    margin: '0 70px',
   };
 
   return (

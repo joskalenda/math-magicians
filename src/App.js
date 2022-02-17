@@ -22,7 +22,7 @@ class App extends Component {
         <NavLink />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
+          <Route path="/About" element={<About />} />
           <Route path="/Calculator" element={<Calculator />} />
 
         </Routes>
