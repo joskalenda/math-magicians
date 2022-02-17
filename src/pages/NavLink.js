@@ -7,7 +7,7 @@ const NavLink = () => (
     <nav className={styles.navlist}>
       <Link className={styles.links} to="/">Home |</Link>
       <Link className={styles.links} to="/Calculator"> Calculator |</Link>
-      <Link className={styles.links} to="/about"> Quote</Link>
+      <Link className={styles.links} to="/Quote"> Quote</Link>
     </nav>
   </header>
 );

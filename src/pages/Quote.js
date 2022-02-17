@@ -1,5 +1,5 @@
 /* eslint-disable max-len */
-const About = () => {
+const Quote = () => {
   const quote = {
     padding: '20px 0',
     lineHeight: '1.5em',
@@ -28,4 +28,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Quote;

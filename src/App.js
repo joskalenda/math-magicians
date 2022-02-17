@@ -7,7 +7,7 @@ import {
 } from 'react-router-dom';
 import NavLink from './pages/NavLink';
 import Home from './pages/Home';
-import About from './pages/About';
+import Quote from './pages/Quote';
 import Calculator from './components/calculator';
 
 class App extends Component {
@@ -22,7 +22,7 @@ class App extends Component {
         <NavLink />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/About" element={<About />} />
+          <Route path="/Quote" element={<Quote />} />
           <Route path="/Calculator" element={<Calculator />} />
 
         </Routes>
