@@ -2,7 +2,15 @@ body {
   margin: 0;
   padding: 0;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(0, 0, 0);
+  background-color: #000;
+}
+
+.calcpa {
+  font-size: 20px;
+  font-weight: bolder;
+  margin-top: 60px;
+  margin-left: 21px;
+  color: antiquewhite;
 }
 
 .container {
