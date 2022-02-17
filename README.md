@@ -4,6 +4,10 @@ Math magicians is a website for all fans of mathematics. It is a Single Page App
 
 # Web presentation
 
+> || Home page|| Quote|| Calculator||
+> |-|---------|-|--------||-----------||
+> || ![Screenshot1](./asset/hom.png) || ![Screenshot1](./asset/kot.png) || ![Screenshot1](./asset/calk.png)||
+
 ## Live Demo
 
 [See Demo](https://vibrant-swartz-ad7f63.netlify.app/)
@@ -46,8 +50,8 @@ $ npm run test #This is to run the tests on the count method
 
 👤 **Jos Kalenda**
 
-- GitHub: [@Jos-Github](https://github.com/joskalenda)
-- LinkedIn: [@Jos-LinkedIn](https://linkedin.com/in/joskalenda)
+- GitHub: [JosKalenda](https://github.com/joskalenda)
+- LinkedIn: [JosKalenda](https://linkedin.com/in/joskalenda)
 
 ## 🤝 Contributing
 
