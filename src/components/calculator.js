@@ -6,10 +6,15 @@ const Calculator = () => {
   const [data, setData] = useState({ total: 0, next: '', operation: '' });
 
   // creat handler for button in sfc
-  const HandleClick = (element) => {
+  // const HandleClick = (element) => {
+  //   const math = calculate(data, element.target.textContent);
+  //   setData({ ...data, ...math });
+  // };
+
+  function HandleClick(element) {
     const math = calculate(data, element.target.textContent);
     setData({ ...data, ...math });
-  };
+  }
 
   // Dsiplay math for calculation
   const doMath = `${data.total || data.operation || data.next ? `${data.total || ''} ${data.operation || ''} ${data.next || ''}` : '0'} `;
