@@ -51,7 +51,7 @@ $ npm run test #This is to run the tests on the count method
 👤 **Jos Kalenda**
 
 - GitHub: [JosKalenda](https://github.com/joskalenda)
-- LinkedIn: [JosKalenda](https://linkedin.com/in/ joskalenda)
+- LinkedIn: [JosKalenda](https://linkedin.com/in/joskalenda)
 
 ## 🤝 Contributing
 
