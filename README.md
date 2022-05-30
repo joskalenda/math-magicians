@@ -4,9 +4,9 @@ Math magicians is a website for all fans of mathematics. It is a Single Page App
 
 # Web presentation
 
-> || Home page|| Quote|| Calculator||
-> |-|---------|-|--------||-----------||
-> || ![Screenshot1](./asset/hom.png) || ![Screenshot1](./asset/kot.png) || ![Screenshot1](./asset/calk.png)||
+> |-| Home page|-| Quote |-| Calculator|-|
+> |-|---------|-|--------|-|-----------|-|
+> |-| ![Screenshot1](./asset/hom.png) || ![Screenshot1](./asset/kot.png) || ![Screenshot1](./asset/calk.png)||
 
 ## Live Demo
 
