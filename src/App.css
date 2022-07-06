@@ -5,7 +5,7 @@ body {
   background-color: #000;
 }
 
-.calcpa {
+.calcspar {
   font-size: 20px;
   font-weight: bolder;
   margin-top: 60px;
@@ -27,7 +27,7 @@ body {
   box-shadow: 5px 5px 15px 5px #616060;
 }
 
-.buttons--ssection {
+.buttons--section {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   padding: 10px;
